@@ -49,9 +49,9 @@ Users should be able to:
 
 - How to use React hooks (useState, useEffect) and how to call an API using Fetch API.
 - How to customize TailwindCSS predefined classes using @theme {}.
-- How to sping an icon using TailwindCSS predefined class.
-- How to fetch the API once upon the component mount, using emptu useEffect dependency.
-- How to centralize the main block in the page vertically and horizontally using Flexbox anf TailwindCSS predefined classes.
+- How to spin an icon using TailwindCSS predefined class.
+- How to fetch the API once upon the component mount, using empty useEffect dependency.
+- How to centralize the main block in the page vertically and horizontally using Flexbox and TailwindCSS predefined classes.
 
 ### Useful resources
 
